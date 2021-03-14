@@ -1,3 +1,12 @@
+#忽略文件夹
+Debug/
+ipch/
+RPG-控制台版/Debug
+
+# vs sudio缓存文件
+*.sdf
+
+
 # Prerequisites
 *.d
 
